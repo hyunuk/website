@@ -32,7 +32,7 @@
       },
       "footer": [
         { "label": "ABOUT ME", "url": "/#about" },
-        { "label": "BLOG", "url": "/blog" },
+        { "label": "BLOG", "url": "/blog" }
       ]
     },
     "featureToggles": {

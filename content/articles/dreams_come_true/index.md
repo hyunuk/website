@@ -3,14 +3,14 @@ title: "Dreams Come True"
 description: "Dreams Come True"
 date: "2022-05-08"
 banner:
-src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-alt: "Python Tips"
-caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  alt: "Python Tips"
+  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-- "Diary"
-  keywords:
-- "Google"
-- "Internship"
+  - "Diary"
+keywords:
+  - "Google"
+  - "Internship"
 ---
 
 Ten years ago, I started to learn English from scratch, literally from “I am a boy”.

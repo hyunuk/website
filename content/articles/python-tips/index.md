@@ -3,16 +3,16 @@ title: "Python tips"
 description: "Python tips"
 date: "2020-12-25"
 banner:
-src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-alt: "Python Tips"
-caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  alt: "Python Tips"
+  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-- "Python"
-- "Coding interview"
-  keywords:
-- "Python"
-- "Coding interview"
-- "Leetcode"
+  - "Python"
+  - "Coding interview"
+keywords:
+  - "Python"
+  - "Coding interview"
+  - "Leetcode"
 ---
 
 Sometimes, you'll face problems that are not like a standard Leetcode style, which is with parameters and returns.
