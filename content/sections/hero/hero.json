@@ -1,0 +1,18 @@
+{
+  "intro": "Hello",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Hyunuk Lim",
+  "subtitle": {
+    "prefix": "I have ",
+    "highlight": "a deep passion for technology",
+    "suffix": "."
+  },
+  "description": "I love learning new knowledge and sharing it with others.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Medium"],
+    "showIcons": true
+  }
+}

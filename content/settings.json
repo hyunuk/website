@@ -1,0 +1,46 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://hyunuk.github.io/",
+    "title": "Hyunuk's Portfolio Website",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Hyunuk's website for the portfolio.",
+    "author": "@hyunuk",
+    "avatar": "../content/images/hyunuk-profile.jpg",
+    "bio": "CS@UBC 2023 | ex-intern @Google | Seeking SWE New Grad opportunity.",
+    "social": {
+      "github": "https://github.com/hyunuk",
+      "medium": "https://medium.com/@dev.hyunuk",
+      "linkedin": "https://www.linkedin.com/in/hyunuk/",
+      "mail": "/blog",
+      "resume": "/Resume_Hyunuk_Lim.pdf"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "현욱" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Github", "url": "https://github.com/hyunuk" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/Resume_Hyunuk_Lim.pdf"
+      },
+      "footer": [
+        { "label": "ABOUT ME", "url": "/#about" },
+        { "label": "BLOG", "url": "/blog" },
+        { "label": "PROJECTS", "url": "/#features" },
+        { "label": "GITHUB", "url": "https://github.com/hyunuk" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

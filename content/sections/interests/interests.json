@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/icons/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/icons/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/icons/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "src": "../../images/icons/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GCP",
+      "image": {
+        "src": "../../images/icons/gcp.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Airflow",
+      "image": {
+        "src": "../../images/icons/airflow.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "d3.js",
+      "image": {
+        "src": "../../images/icons/d3.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Apache Spark",
+      "image": {
+        "src": "../../images/icons/spark.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Unity",
+      "image": {
+        "src": "../../images/icons/unity.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 9
+  }
+}

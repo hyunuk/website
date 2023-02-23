@@ -1,0 +1,13 @@
+{
+  "name": "Questions?",
+  "email": "dev.hyunuk@gmail.com",
+  "description": "If you have any questions about my experience, feel free to reach out to me!",
+  "image": {
+    "src": "../../images/hyunuk-footer.jpeg",
+    "alt": "Hyunuk"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github"],
+    "showIcons": true
+  }
+}
