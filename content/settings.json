@@ -33,8 +33,6 @@
       "footer": [
         { "label": "ABOUT ME", "url": "/#about" },
         { "label": "BLOG", "url": "/blog" },
-        { "label": "PROJECTS", "url": "/#features" },
-        { "label": "GITHUB", "url": "https://github.com/hyunuk" }
       ]
     },
     "featureToggles": {

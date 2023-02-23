@@ -61,7 +61,7 @@ print(ret)
 input() is slower, so use sys.stdin.read() when you deal with a large amount of data
 ```
 
-## Small Tip
+## Small Tips
 ```py
 # max/min numbers
 max_int = sys.maxsize
